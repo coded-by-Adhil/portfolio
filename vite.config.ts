@@ -1,14 +1,13 @@
 import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
+import react from "@vitejs/plugin-react-swc";  // Change this line
 import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/portfolio/",  // <-- IMPORTANT for GitHub Pages
+  base: "/portfolio/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
   },
 });
-
