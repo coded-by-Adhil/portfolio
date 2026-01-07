@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, Download } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { useActiveSection } from '@/hooks/useActiveSection';
 
 const MobileNav = () => {
@@ -66,16 +66,7 @@ const MobileNav = () => {
             ))}
           </ul>
           
-          {/* Mobile Resume Button */}
-          <a
-            href="/resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center justify-center gap-2 mt-4 w-full py-3 px-4 rounded-lg bg-primary text-primary-foreground font-medium hover:bg-primary/90 transition-colors"
-          >
-            <Download size={18} />
-            Download Resume
-          </a>
+          {/* Mobile Resume Button - REMOVED */}
         </nav>
       )}
     </header>
