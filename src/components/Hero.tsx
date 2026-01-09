@@ -16,17 +16,18 @@ const experiences: ExperienceItem[] = [
     title: "Senior Software Engineer",
     company: "Trogon Media Pvt Ltd",
     period: "2023 — 2024",
-    description: "Owned full-stack development and production support for ERP, E-commerce, LMS, and Healthcare systems. Designed and delivered core modules including admissions, exams, attendance, inventory, orders, payments, and reporting. Optimised backend performance by refactoring logic and queries. Integrated multiple payment gateways with automated verification workflows. Built scalable REST APIs and mentored junior developers.",
+    description: "Led end-to-end delivery of multiple high-impact projects across ERP, e-commerce, LMS, and healthcare platforms, successfully managing parallel workloads and delivering solutions on time under high-pressure deadlines. Acted as a primary technical liaison for clients, translating business requirements into scalable technical solutions aligned with performance and security goals. Designed and implemented core system modules including admissions, examinations, inventory, orders, payments, and reporting. Built and optimised scalable RESTful APIs, refactored legacy backend logic, and improved database performance to enhance system stability and response times. Integrated multiple secure payment gateways with automated verification workflows. Collaborated closely with cross-functional teams in Agile environments and mentored junior developers through code reviews and technical guidance.",
     technologies: ["PHP", "Laravel", "CodeIgniter", "React", "MySQL", "REST APIs"]
   },
   {
     title: "Junior Software Engineer",
     company: "Sparrow Solutions Pvt Ltd",
     period: "2021 — 2023",
-    description: "Worked on Accounting and Retail ERP systems designed for small and medium-scale businesses, supporting sales tracking, profit calculation, stock management, and multi-vendor access control. Provided production support for live systems, improved backend performance through query optimisation, and developed additional business applications including Finance Management Systems and dynamic web platforms.",
+    description: "Contributed to the development and support of accounting and retail ERP systems for small and medium-scale businesses, enabling sales tracking, profit calculation, stock management, and multi-vendor access control. Worked directly with clients to understand business workflows and deliver tailored technical solutions within defined timelines. Handled multiple projects simultaneously while balancing feature development, bug fixes, and production support. Improved backend performance through query optimisation and backend refactoring, resolved live production issues, and collaborated closely with team members to ensure on-time project delivery across finance management systems and dynamic web platforms.",
     technologies: ["PHP", "Laravel", "CodeIgniter", "JavaScript", "MySQL", "Bootstrap", "jQuery"]
   }
 ];
+
 
 const skillCategories = [
   {
