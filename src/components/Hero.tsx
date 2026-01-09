@@ -300,19 +300,19 @@ const Hero = () => {
               </div>
               <ScrollReveal>
                 <div className="space-y-4">
-                  <p className="text-muted-foreground leading-relaxed">
-                    I'm a Full-Stack PHP Developer with over three years of experience building and supporting production-grade web applications across <span className="text-foreground font-medium">ERP</span>, <span className="text-foreground font-medium">e-commerce</span>, <span className="text-foreground font-medium">online learning</span>, <span className="text-foreground font-medium">healthcare</span>, and <span className="text-foreground font-medium">finance domains</span>. I hold a Master's degree in Computer Science from the <span className="text-foreground font-medium">University of Hertfordshire</span> and have a strong foundation in software engineering and system design.
-                  </p>
-                  <p className="text-muted-foreground leading-relaxed">
-                    I specialise in <span className="text-foreground font-medium">PHP (Laravel, CodeIgniter)</span> and <span className="text-foreground font-medium">React</span>, with hands-on experience developing scalable backend systems, designing <span className="text-foreground font-medium">RESTful APIs</span>, integrating <span className="text-foreground font-medium">secure payment gateways</span>, and working with third-party services. I am confident in handling complex technical problems, optimising legacy systems, and supporting live production environments.
-                  </p>
-                  <p className="text-muted-foreground leading-relaxed">
-                    I enjoy building <span className="text-foreground font-medium">reliable, scalable systems</span> that solve real business problems and am continuously growing toward <span className="text-foreground font-medium">senior and technical leadership</span> responsibilities.
-                  </p>
-                  <p className="text-muted-foreground leading-relaxed">
-                    Currently based in <span className="text-foreground font-medium">Kingston Upon Thames, London, UK</span>, I'm open to new opportunities where I can contribute my skills and continue learning from talented teams.
-                  </p>
-                </div>
+                    <p className="text-muted-foreground leading-relaxed">
+                      I am a results-driven <span className="text-foreground font-medium">Full-Stack Software Engineer</span> with over three years of hands-on experience delivering and supporting <span className="text-foreground font-medium">production-grade applications</span> across <span className="text-foreground font-medium">ERP</span>, <span className="text-foreground font-medium">e-commerce</span>, <span className="text-foreground font-medium">online learning</span>, <span className="text-foreground font-medium">healthcare</span>, and <span className="text-foreground font-medium">finance domains</span>. I have been trusted to build, optimise, and maintain <span className="text-foreground font-medium">business-critical systems</span> used by real customers in live environments. I hold a Master’s degree in Computer Science from the <span className="text-foreground font-medium">University of Hertfordshire</span>, providing a strong foundation in software engineering.
+                    </p>
+
+                    <p className="text-muted-foreground leading-relaxed">
+                      I specialise in <span className="text-foreground font-medium">PHP frameworks including Laravel and CodeIgniter</span>, alongside <span className="text-foreground font-medium">React</span> for frontend development. My experience includes designing <span className="text-foreground font-medium">scalable RESTful APIs</span>, integrating <span className="text-foreground font-medium">secure payment gateways</span>, optimising backend performance, and modernising legacy systems to improve reliability and scalability. I am highly confident handling complex technical challenges and resolving critical production issues under pressure.
+                    </p>
+
+                    <p className="text-muted-foreground leading-relaxed">
+                      Beyond development, I work closely with <span className="text-foreground font-medium">clients and cross-functional teams</span> to understand business requirements and translate them into effective technical solutions. I take <span className="text-foreground font-medium">end-to-end ownership</span> of features and projects, contribute to architectural decisions, and actively support junior developers through collaboration, code reviews, and technical guidance.
+                    </p>
+                  </div>
+
               </ScrollReveal>
             </section>
 
